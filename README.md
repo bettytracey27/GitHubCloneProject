@@ -1,1 +1,1 @@
-This is the description of my repo
+This is the README file for the GitHub branching task.
